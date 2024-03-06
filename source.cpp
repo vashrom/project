@@ -5,6 +5,6 @@
 void main()
 {
 
-  cout << hello;
-
+  std::cout << "hello";
+  std::cout << "goodbye";
 }
