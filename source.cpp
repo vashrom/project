@@ -7,7 +7,7 @@ bool function()
 
 void main()
 {
-
+Hello
   std::cout << "hello";
   std::cout << "goodbye";
 }
